@@ -1,0 +1,4 @@
+.CoqMakefile.d
+.exp.aux
+Makefile.coq.conf
+**.aux

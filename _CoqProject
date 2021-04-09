@@ -1,0 +1,16 @@
+-Q tapl/ Tapl
+tapl/Data/List.v
+
+tapl/Stlc/Base.v
+tapl/Stlc/Exp.v
+tapl/Stlc/Typing.v
+tapl/Stlc/Subst.v
+tapl/Stlc/Properties.v
+tapl/Stlc/Extra.v
+
+tapl/LambdaSub/Base.v
+tapl/LambdaSub/Exp.v
+tapl/LambdaSub/Typing.v
+tapl/LambdaSub/Subst.v
+tapl/LambdaSub/Properties.v
+tapl/LambdaSub/Extra.v
