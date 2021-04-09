@@ -2,3 +2,4 @@
 .exp.aux
 Makefile.coq.conf
 **.aux
+token
